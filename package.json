@@ -1,0 +1,17 @@
+{
+  "name": "websocketautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "websocket, cypress, test, automation"
+  },
+  "keywords": [
+    "websocket",
+    "cypress",
+    "test",
+    "automation"
+  ],
+  "author": "Rajiv Singh",
+  "license": "ISC"
+}
